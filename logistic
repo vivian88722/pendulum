@@ -1,0 +1,36 @@
+class mermaid {
+
+    constructor(){
+      this.name = 'Under the Sea';
+      this.character = 'little mermaid';
+      this.friends = [seaturtle, starfish, crab, fish];
+      this.seeking = 'coins';
+      this.enemy = 'monsters';
+      this.goal = 'avoid monsters';
+    }
+  
+
+   
+  avoid(){
+    //to avoid the monsters
+    
+    
+    
+  fight(){
+      if (bumpintomonster) {
+        attack (withbubble)
+      }
+    }
+
+
+  collect(coin){
+  }
+    
+  function moveleft() {
+  myGamePiece.speedX -= 1;
+    }
+
+
+  function moveright() {
+  myGamePiece.speedX += 1;
+    }
